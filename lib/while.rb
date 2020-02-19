@@ -1,5 +1,6 @@
 def using_while
 
+  require_relative "spec_helper"
   require_relative "../lib/while.rb"
 
   counter=0
